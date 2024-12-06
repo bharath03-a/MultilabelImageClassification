@@ -1,5 +1,9 @@
 # Deep Learning Project: Face Attributes Prediction
 
+<p align="center">
+    <img src="https://www.nyckel.com/blog/multiclass/multiclass-checklist.webp" alt="Multi-Image Classification" width="70%">
+</p>
+
 This repository contains the implementation of a deep learning project for face attribute prediction using models like DenseNet121 and ResNet50. It includes notebooks, trained models, evaluation metrics, and outputs for comprehensive analysis.
 
 ## Table of Contents
@@ -61,14 +65,20 @@ The CelebA dataset is used for training and evaluation. It includes:
 
 ## Visualizations
 
-### ResNet50 Predictions on Unseen Data
-![ResNet Predictions](model_images/resnet/resnet_unseen.png)
+<p align="center">
+    <b>ResNet50 Predictions on Unseen Data</b><br>
+    <img src="model_images/resnet/resnet_unseen.png" alt="ResNet Predictions" width="60%">
+</p>
 
-### DenseNet121 Predictions on Unseen Data
-![DenseNet Predictions](model_images/densenet/densenet_unseen.png)
+<p align="center">
+    <b>DenseNet121 Predictions on Unseen Data</b><br>
+    <img src="model_images/densenet/densenet_unseen.png" alt="DenseNet Predictions" width="60%">
+</p>
 
-### Model Testing Result Comparison
-![Testing Result Comparison](model_images/testing_result_comparison.png)
+<p align="center">
+    <b>Model Testing Result Comparison</b><br>
+    <img src="model_images/testing_result_comparison.png" alt="Testing Result Comparison" width="60%">
+</p>
 
 ## Dependencies
 
